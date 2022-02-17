@@ -1,4 +1,6 @@
 # hse_hw1_meth
+
+https://colab.research.google.com/drive/1EDGEaZTFvVUCvGZBlJ4qgd8Z-knqAnfk?usp=sharing
 Есть 3 образца:
 
 1) 8cell – 8-клеточный эмбрион, примерно 2.25 дня после оплодотворения яйцеклетки
