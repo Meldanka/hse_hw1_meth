@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1EDGEaZTFvVUCvGZBlJ4qgd8Z-knqAnfk?usp=sh
 * Epiblast – стадия эпибласта, примерно 6.5 дней после оплодотворения яйцеклетки
 
 # Часть 1
-Сравниваем fastqc report для BS-seq 8cell (слева) с fastqc report для RNA-seq SRR3414629_1 из прошлого дз3 (справа).
+Сравниваем fastqc report для BS-seq 8cell (слева) с fastqc report для RNA-seq SRR3414629_1 из прошлого дз3 (https://github.com/Meldanka/hse21_hw3) (справа).
 <p float="left">
   <img width="500" alt="Снимок экрана 2022-02-18 в 13 29 45" src="https://user-images.githubusercontent.com/91221560/154665566-bf42e934-69ed-44a2-852e-bc44b8da0458.png"> 
   <img width="500" alt="Снимок экрана 2022-02-18 в 13 34 23" src="https://user-images.githubusercontent.com/91221560/154666347-7b418687-787c-40d5-98ea-9e1fbf6cccf5.png">
