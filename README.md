@@ -92,7 +92,7 @@ https://colab.research.google.com/drive/1EDGEaZTFvVUCvGZBlJ4qgd8Z-knqAnfk?usp=sh
 
 **Пункт (d)**
 
-Получившиеся гистограммы для 8cell, icm и epiblast
+Получившиеся гистограммы для 8cell, icm и epiblast 
 
 (отображение насколько часто метилируются цитозины в данном образце: по X процент метилированных цитозинов, по Y - частота):
 
