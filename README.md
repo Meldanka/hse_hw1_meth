@@ -83,7 +83,7 @@ https://colab.research.google.com/drive/1EDGEaZTFvVUCvGZBlJ4qgd8Z-knqAnfk?usp=sh
 <p float="left">
  <img width="300" alt="Снимок экрана 2022-02-18 в 15 24 25" src="https://user-images.githubusercontent.com/91221560/154682611-fb21b1f4-e5b6-4ae3-b721-7df5468d4660.png">
  <img width="300" alt="Снимок экрана 2022-02-18 в 15 24 33" src="https://user-images.githubusercontent.com/91221560/154682623-a8b4211a-ccfc-42e2-92e6-8f702dca2673.png">
- <img width="300" alt="Снимок экрана 2022-02-18 в 15 24 46" src="https://user-images.githubusercontent.com/91221560/154682639-af198436-e08f-4998-a7a7-0e98567491b8.png">
+ <img width="1174" alt="Снимок экрана 2022-02-18 в 15 24 46" src="https://user-images.githubusercontent.com/91221560/154730088-173ca152-e393-4e31-b4d9-2c05e305cd62.png">
 </p>
 
 Для Read2 у 8cell, icm и epibalst проценты метиллирования в CpG контексте на каждой позиции примерно 43%, 23% и 77% соответственно, но только у epiblast на позициях от 0 до 20 рост с 60% до ~77%. Что касается CHG и CHH контекста, в каждом образце на позициях начиная с 20 процент очень маленький, а от 0 до 20 процент снижается.
